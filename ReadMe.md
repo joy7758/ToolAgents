@@ -1,3 +1,7 @@
+<!-- language-switch:start -->
+[English](./ReadMe.md) | [中文](./README.zh-CN.md)
+<!-- language-switch:end -->
+
 # ToolAgents
 
 ToolAgents is a lightweight and flexible framework for creating function-calling agents with various language models and APIs. It provides a unified interface for integrating different LLM providers and executing function calls seamlessly.
